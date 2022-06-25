@@ -1,0 +1,11 @@
+20th June ==> System.out.print(), Intro to nested loops, Advanced tables, nxn pattern, triangle pattern, pattern2.
+
+21st June ==> Aamir cover, Greatest digit, Print N numbers, Factor vs divisor, Is a factor?. CodeChef: Volume control, Dominant army.
+
+22nd June ==> Revise divisor and factor, Factors till N. CodeChef: Chef party, Break the stick.
+
+23rd June ==> Prime second best optimised, More about TLE.
+
+24th June ==> Revision of Prime numbers, Prime numbers completed.
+
+25th June ==> Pattern 3, Optimized sum of odd numbers.
