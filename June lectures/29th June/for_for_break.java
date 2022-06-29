@@ -8,15 +8,22 @@ public class for_for_break {
         int n3 = sc.nextInt();
         int n4 = sc.nextInt();
 
+        boolean flag = false;
+
         for (int i = 1; i <= n1; i++) {
             System.out.print(i + " ==> ");
-            
+
             for (int j = 1; j <= n2; j++) {
                 System.out.print(j + " ");
 
-                if(i == n3 && j == n4) {
+                if (i == n3 && j == n4) {
+                    flag = true;
                     break;
                 }
+            }
+
+            if (flag == true) {
+                break;
             }
 
             System.out.println();

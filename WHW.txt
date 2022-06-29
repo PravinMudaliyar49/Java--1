@@ -15,3 +15,5 @@
 27th June ==> Pattern 5.
 
 28th June ==> for-for-break.
+
+29th June ==> Completed for-for-break, Pattern 6.
