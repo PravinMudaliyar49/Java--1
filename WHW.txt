@@ -19,3 +19,5 @@
 29th June ==> Completed for-for-break (flag technique), Pattern 6.
 
 30th June ==> Coverup of 28th June and 29th June. Fibonacci sequence question explained.
+
+1st July ==> Fibonacci, Pattern 6. 
