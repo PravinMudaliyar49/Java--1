@@ -22,4 +22,4 @@
 
 1st July ==> Fibonacci, Pattern 6. 
 
-2nd July ==> Holiday... Bear and Candies extra question.
+2nd July ==> Holiday... Codechef extra question.
