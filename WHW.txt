@@ -20,6 +20,8 @@
 
 30th June ==> Coverup of 28th June and 29th June. Fibonacci sequence question explained.
 
-1st July ==> Fibonacci, Pattern 6. 
+1st July ==> Fibonacci, Pattern 7. 
 
 2nd July ==> Holiday... Codechef extra question.
+
+3rd July ==> Pattern 8, Largest and second largest.
