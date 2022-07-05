@@ -27,3 +27,5 @@
 3rd July ==> Pattern 8, Largest and second largest.
 
 4th July ==> Intro to binary system, Integer.MIN_VALUE and Integer.MAX_VALUE.
+
+5th July ==> Tribonacci, isFibonacci(), Pattern 9 and 10, Candies CodeChef.
