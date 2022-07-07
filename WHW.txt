@@ -29,3 +29,7 @@
 4th July ==> Intro to binary system, Integer.MIN_VALUE and Integer.MAX_VALUE.
 
 5th July ==> Tribonacci, isFibonacci(), Pattern 9 and 10, Candies CodeChef.
+
+6th July ==> Smallest and second_smallest, cummulative multiplication, Identity.
+
+7th July ==> Pattern 11 and Pattern 12.
