@@ -33,3 +33,5 @@
 6th July ==> Smallest and second_smallest, cummulative multiplication, Identity.
 
 7th July ==> Pattern 11 and Pattern 12.
+
+8th July => Loss of precision, Type-casting and its types, Intro to array.
