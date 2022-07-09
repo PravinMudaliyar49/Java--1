@@ -95,3 +95,5 @@
 7th July ==> Pattern 11 and Pattern 12.
 
 8th July => Loss of precision, Type-casting and its types, Intro to array.
+
+9th July ==> Loop with Array, Internal working of array and it's implications, Started Scanner with Array.
