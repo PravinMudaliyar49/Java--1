@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class conditions {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int age = sc.nextInt();
+
+        if (age > 18) {
+            System.out.println("Here's your licence.");
+        } else if (age == 18) {
+            System.out.println("After 2 months");
+        } else {
+            System.out.println("No licence.");
+        }
+
+    }
+}

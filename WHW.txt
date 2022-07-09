@@ -1,3 +1,63 @@
+11thMay  ====> Intro, Syntax, Data, Variables and Data types, Compiler, Console, Types of data-types, Comments, Variable naming, Camel-case.
+
+12thMay ====> Declaration-Initialization-Re-initialization, Compile vs Runtime error, Arithmetic operators, Relational operator, Assignment operator, Age calculator Question, Concatenation, Operand vs Operator. 
+
+13thMay ====> Age calculator Qs, Taking number input and String input.
+
+14thMay ====> Age calculator with Scanner class, next() vs nextLine().
+
+15thMay ===> Salary calculator, Bodmas rule and associativity, Floor value for int.
+
+16th May ===> Conditional statements intro, Odd-even program, Negative-positive program.
+
+17th May ===> Rules for conditional statements, .equals(), Grading system question, 
+
+18th May ===> Relation between 2 numbers, Nested if-else, Greatest amongst two, 
+
+19th May ==> Greatest amongst 3, character input.
+
+20th May ===> License Program 2, Always use .equals() to check 2 strings.
+
+21st May ===> Calculator project. No pdf
+
+22nd May ===> Greatest amongst 6.
+
+23rd May ===> Extract last digit maths, Leap year program
+
+24th May ===> Unary operator, post and pre increment-decrement, Logical operators, Short circuit.
+
+25th May ==> Aamir revision, Swap 2 numbers.
+
+26th May ===> Second largest amongst 3.
+
+27th May ===> Sum of last 2 digits.
+
+28th May ===> Control statements 2 (Looping statements), Syntax of for-loop, Stack diagram, Scope of a loop variable, Meaning of an iteration, Print nums in a user given range.
+
+29th May ===> Coverup class.
+
+30th May ===> Decreasing in a range, Exclude the user given number from the range, Exclude 2 user given numbers from the range, Exclude a range from the user given range question completed.
+
+31st May ===> Completed exclude a range from the user given range, Mistakes with looping: TLE, etc.
+
+1st June ===> Loop with Scanner, Jump statements (break and continue), Table printing.
+
+2nd June ===> Sum of N natural numbers.
+
+3rd June ===> While loop, Infinite odd-even, CodeChef intro.
+
+4th June ===> Infinite license.
+
+5th June ===> Count of user given number's digits.
+
+6th June ===> Sum of all digits, Reverse the number, Sum of odd numbers.
+
+7th June ===> Armstrong number, Intro to array.
+
+8th June ===> Coverup class of Armstrong number.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    Post-split    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 20th June ==> System.out.print(), Intro to nested loops, Advanced tables, nxn pattern, triangle pattern, pattern2.
 
 21st June ==> Aamir cover, Greatest digit, Print N numbers, Factor vs divisor, Is a factor?. CodeChef: Volume control, Dominant army.
