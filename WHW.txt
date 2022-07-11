@@ -97,3 +97,7 @@
 8th July => Loss of precision, Type-casting and its types, Intro to array.
 
 9th July ==> Loop with Array, Internal working of array and it's implications, Started Scanner with Array.
+
+10th July ==> Holiday.
+
+11th July ==> Array with Scanner, Cummulative division, Span of an array half completed.
