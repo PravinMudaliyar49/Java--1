@@ -103,3 +103,5 @@
 11th July ==> Array with Scanner, Cummulative division, Span of an array half completed.
 
 12th July ==> Completed span of an array, hasElement, firstIndex and frequency.
+
+13th July ==> Reverse append an array, Homework: Check uniformity and ulta.
