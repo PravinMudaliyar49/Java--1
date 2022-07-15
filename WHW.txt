@@ -107,3 +107,5 @@
 13th July ==> Reverse append an array, Homework: Check uniformity and ulta.
 
 14th July ==> Check uniformity, Reverse the array, Add 2 arrays question.
+
+15th July ==> Add two arrays completed.
