@@ -109,3 +109,5 @@
 14th July ==> Check uniformity, Reverse the array, Add 2 arrays question.
 
 15th July ==> Add two arrays completed.
+
+16th July ==> Holiday.
