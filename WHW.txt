@@ -111,3 +111,5 @@
 15th July ==> Add two arrays completed.
 
 16th July ==> Holiday.
+
+17th July ==> Subtract 2 arrays completed, Mix the colors. 
