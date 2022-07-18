@@ -113,3 +113,5 @@
 16th July ==> Holiday.
 
 17th July ==> Subtract 2 arrays completed, Mix the colors. 
+
+18th July ==> Aamir coverup till typecasting.
