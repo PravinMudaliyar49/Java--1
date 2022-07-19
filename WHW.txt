@@ -102,7 +102,7 @@
 
 11th July ==> Array with Scanner, Cummulative division, Span of an array half completed.
 
-12th July ==> Completed span of an array, hasElement, firstIndex and frequency.
+12th July ==> Completed span of an array, Arrays.sort(), hasElement(check if the target is present in the array), firstIndex and frequency.
 
 13th July ==> Reverse append an array, Homework: Check uniformity and ulta.
 
@@ -115,3 +115,5 @@
 17th July ==> Subtract 2 arrays completed, Mix the colors. 
 
 18th July ==> Aamir coverup till typecasting.
+
+19th July ==> Covered-up till firstIndex and frequency.
