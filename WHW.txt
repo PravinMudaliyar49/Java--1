@@ -119,3 +119,5 @@
 19th July ==> Covered-up till firstIndex and frequency.
 
 20th July ==> Bar chart, Subarrays of an array.
+
+21st July ==> K rotate the user given array.
