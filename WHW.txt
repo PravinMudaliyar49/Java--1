@@ -121,3 +121,7 @@
 20th July ==> Bar chart, Subarrays of an array.
 
 21st July ==> K rotate the user given array.
+
+22nd July ==> Holiday.
+
+23rd July ==> Time complexity and Methods intro.
