@@ -125,3 +125,5 @@
 22nd July ==> Holiday.
 
 23rd July ==> Time complexity and Methods intro.
+
+24th July ==> Time complexity almost done.
